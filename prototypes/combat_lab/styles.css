@@ -58,3 +58,15 @@ body {
 .result {
     font-size: 36px;
 }
+
+h2 {
+    text-align: center;
+}
+
+#timer-message {
+    font-size: 30px;
+    height:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
